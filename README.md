@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1002-find-common-characters](https://github.com/Amer-css/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Amer-css/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2299-strong-password-checker-ii](https://github.com/Amer-css/LeetCode-Solutions/tree/master/2299-strong-password-checker-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
