@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amer-css/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1002-find-common-characters](https://github.com/Amer-css/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Amer-css/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3408-design-task-manager](https://github.com/Amer-css/LeetCode-Solutions/tree/master/3408-design-task-manager) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Amer-css/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+## Design
+|  |
+| ------- |
+| [3408-design-task-manager](https://github.com/Amer-css/LeetCode-Solutions/tree/master/3408-design-task-manager) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3408-design-task-manager](https://github.com/Amer-css/LeetCode-Solutions/tree/master/3408-design-task-manager) |
+## Ordered Set
+|  |
+| ------- |
+| [3408-design-task-manager](https://github.com/Amer-css/LeetCode-Solutions/tree/master/3408-design-task-manager) |
 <!---LeetCode Topics End-->
