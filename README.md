@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3408-design-task-manager](https://github.com/Amer-css/LeetCode-Solutions/tree/master/3408-design-task-manager) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Amer-css/LeetCode-Solutions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
